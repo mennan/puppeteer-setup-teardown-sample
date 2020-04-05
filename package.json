@@ -6,7 +6,7 @@
   "dependencies": {
     "abab": "^2.0.3",
     "abbrev": "^1.1.1",
-    "acorn": "^5.7.3",
+    "acorn": "^5.7.4",
     "acorn-globals": "^4.3.4",
     "acorn-walk": "^6.2.0",
     "agent-base": "^4.3.0",
