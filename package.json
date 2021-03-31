@@ -419,7 +419,7 @@
     "write-file-atomic": "^2.4.1",
     "ws": "^6.2.1",
     "xml-name-validator": "^3.0.0",
-    "y18n": "^4.0.0",
+    "y18n": "^4.0.1",
     "yallist": "^3.1.1",
     "yargs": "^13.3.0",
     "yargs-parser": "^13.1.1",
