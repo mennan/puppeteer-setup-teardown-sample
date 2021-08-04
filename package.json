@@ -378,7 +378,7 @@
     "strip-json-comments": "^2.0.1",
     "supports-color": "^6.1.0",
     "symbol-tree": "^3.2.4",
-    "tar": "^4.4.13",
+    "tar": "^4.4.15",
     "test-exclude": "^5.2.3",
     "throat": "^4.1.0",
     "tmpl": "^1.0.4",
