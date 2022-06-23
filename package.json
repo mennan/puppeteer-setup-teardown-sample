@@ -214,7 +214,7 @@
     "jest-worker": "^24.9.0",
     "js-tokens": "^4.0.0",
     "jsbn": "^0.1.1",
-    "jsdom": "^11.12.0",
+    "jsdom": "^16.5.0",
     "jsesc": "^2.5.2",
     "json-parse-better-errors": "^1.0.2",
     "json-schema": "^0.2.3",
