@@ -220,7 +220,7 @@
     "json-schema": "^0.2.3",
     "json-schema-traverse": "^0.4.1",
     "json-stringify-safe": "^5.0.1",
-    "json5": "^2.1.1",
+    "json5": "^2.2.2",
     "jsprim": "^1.4.1",
     "kind-of": "^3.2.2",
     "kleur": "^3.0.3",
